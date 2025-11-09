@@ -1,0 +1,3 @@
+title: ChatGPT
+url: https://chatgpt.com/
+timestamp: 2025-10-12 12:05:15
