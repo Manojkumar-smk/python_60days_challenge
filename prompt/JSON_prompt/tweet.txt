@@ -1,0 +1,38 @@
+{
+  "task": "generate_multiple_tweets",
+  "topic": "Dopamine Detox",
+  "audience": "Productivity seekers, wellness enthusiasts, digital minimalists",
+  "variants": [
+    {
+      "tone": "Professional",
+      "length": "25 words",
+      "style": {
+        "clarity": "High",
+        "emotion": "Balanced",
+        "call_to_action": true
+      },
+      "hashtags": ["#DopamineDetox", "#Focus", "#MentalClarity"]
+    },
+    {
+      "tone": "Motivational",
+      "length": "25 words",
+      "style": {
+        "clarity": "Medium",
+        "emotion": "High",
+        "call_to_action": true
+      },
+      "hashtags": ["#Discipline", "#DigitalWellness", "#MindsetShift"]
+    },
+    {
+      "tone": "Scientific",
+      "length": "25 words",
+      "style": {
+        "clarity": "High",
+        "emotion": "Low",
+        "call_to_action": false
+      },
+      "hashtags": ["#Neuroscience", "#CognitiveHealth", "#Dopamine"]
+    }
+  ],
+  "output_format": "tweet_text_array"
+}
