@@ -1,0 +1,76 @@
+{
+  "prompt": "A visually stunning solar system illustration with artistic flair and cosmic depth.",
+  "style": "Digital painting with soft glow and vibrant colors",
+  "theme": "Celestial harmony and planetary uniqueness",
+  "elements": {
+    "sun": {
+      "appearance": "Radiant golden core with solar flares",
+      "position": "Center",
+      "size": "Largest"
+    },
+    "planets": [
+      {
+        "name": "Mercury",
+        "texture": "Metallic gray",
+        "orbit_speed": "Fast",
+        "size": "Small"
+      },
+      {
+        "name": "Venus",
+        "texture": "Golden mist",
+        "atmosphere": "Thick clouds",
+        "size": "Medium"
+      },
+      {
+        "name": "Earth",
+        "texture": "Blue oceans, green continents",
+        "features": ["Clouds", "Moon"],
+        "size": "Medium"
+      },
+      {
+        "name": "Mars",
+        "texture": "Dusty red",
+        "features": ["Canyons", "Polar caps"],
+        "size": "Medium"
+      },
+      {
+        "name": "Jupiter",
+        "texture": "Swirling storms",
+        "features": ["Great Red Spot", "Moons"],
+        "size": "Very large"
+      },
+      {
+        "name": "Saturn",
+        "texture": "Golden beige",
+        "features": ["Elegant rings"],
+        "size": "Large"
+      },
+      {
+        "name": "Uranus",
+        "texture": "Icy teal",
+        "tilt": "Extreme axial tilt",
+        "size": "Large"
+      },
+      {
+        "name": "Neptune",
+        "texture": "Deep blue",
+        "features": ["Wispy clouds"],
+        "size": "Large"
+      }
+    ],
+    "extras": {
+      "asteroid_belt": "Between Mars and Jupiter",
+      "comets": "With glowing tails",
+      "background": "Starry galaxy with nebulae",
+      "orbit_plane": "Tilted for depth"
+    }
+  },
+  "composition": {
+    "layout": "Circular orbits around the sun",
+    "perspective": "Slightly angled for 3D effect",
+    "lighting": "Soft ambient with highlights"
+  },
+  "mood": "Mystical and awe-inspiring",
+  "transparent_background": false,
+  "progression_text": "Sketching cosmic harmony across planetary paths…"
+}
